@@ -70,10 +70,6 @@ const hypothenuse = (ab, ac) => {
 const BMI = (weight, height) => {
     return Math.round(weight / Math.pow(height,2)*100)/100;
 }
-const createLanguagesArray = () => {
-    let languages = ["Html","CSS","Java","PHP"];
-    return languages;
-};
 // const createNumbersArray = () => {
 
 // }
